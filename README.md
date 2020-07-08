@@ -7,4 +7,5 @@ The n-puzzle is a sliding puzzle that consists of a frame of numbered square til
 
 #
 Written in PDDL.
+
 This Project was part of the course Agent-oriented software engineering offered at the University of Trento.
